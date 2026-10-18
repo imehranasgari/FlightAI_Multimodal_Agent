@@ -217,3 +217,8 @@ The agent operates on an explicit schema contract passed during completions, ens
 
 * **GitHub**: [@imehranasgari](https://github.com/imehranasgari)
 * **Specialization**: Machine Learning Pipelines, MLOps, LLM Systems & Tool Integration
+
+  
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
